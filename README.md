@@ -1,7 +1,17 @@
 # GuessCapitalGame
 Game to guess the capital of European countries
 
-- TP : Jeu des capitales
+######################################################################
+
+Nous utiliserons une base de données H2 : Java in-memory SQL database
+
+- install / config
+    - Télécharger jar H2
+        - http://www.h2database.com/html/download.html
+        - Binary JAR
+    - Ajouter H2 comme librairie au projet.
+
+-  TP : Jeu des capitales
     - Enoncé
         - Vous disposez d’une base de données contenant la liste des pays européens et leurs capitales (countries.mv.db).
 
