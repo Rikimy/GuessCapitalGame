@@ -1,5 +1,5 @@
-# GuessCapitalGame
-Game to guess the capital of European countries
+# Guess Capital Game
+Game to guess the capital of European countries.
 
 ######################################################################
 
